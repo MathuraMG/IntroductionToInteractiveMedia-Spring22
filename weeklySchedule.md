@@ -151,7 +151,7 @@ Be careful not to damage the wires or yourselves!
 
 ---
 
-### Week 9 (Mar. 29 & 31)
+### Week 9 (Mar 29 & Mar 31)
 **Arduino: analog input & output**
 
 *Assignments:*
