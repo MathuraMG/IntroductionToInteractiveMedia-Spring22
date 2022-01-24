@@ -4,7 +4,7 @@
 **Topics covered in class**
 * What is this class about?
 * Examples! (check Examples.md for full list)
-* Github and markdown
+* Github and markdown [Github for documentation](https://github.com/MathuraMG/Resources/blob/main/Github-for-documentation.md) | [Markdown](https://markdown-it.github.io/)
 * p5 editor + what is p5 even!
 * First p5 sketch 
 * Canvas, coordinates, setup and draw
