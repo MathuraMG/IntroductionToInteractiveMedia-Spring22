@@ -2,9 +2,12 @@
 ### Jan 25 - 1:15pm - 3:55pm
 
 **Topics covered in class**
+* What is this class about?
+* Examples! (check Examples.md for full list)
 * Github and markdown
-* p5 editor
-* First p5 sketch!
+* p5 editor + what is p5 even!
+* First p5 sketch 
+* Canvas, coordinates, setup and draw
 * Simple shapes in p5
 * Colours in p5
 
