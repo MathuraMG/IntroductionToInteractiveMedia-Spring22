@@ -9,7 +9,7 @@ Prerequisites: None
 Course website: [https://github.com/mathuramg/IntroductionToInteractiveMedia](https://github.com/mathuramg/IntroductionToInteractiveMedia)      
 Instructor: Mathura Govindarajan mathura.mg@nyu.edu    
 Office hours: By appointment  
-Meeting times: Tuesday 1:15pm – 3:55pm and Thursday 1:15pm – 2:30pm 
+Meeting times: Tuesday 1:15pm – 3:55pm and Thursday 2:40pm – 3:55pm 
 Session: Spring 2022       
 Class location: TBA  
 
