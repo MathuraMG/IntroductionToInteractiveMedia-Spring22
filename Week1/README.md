@@ -32,8 +32,8 @@
 
 **Assignments:** 
 *Will be discussed in Thursday class*
-* Production:
-    * Due Jan 31 (post documentation on blog): Make a self-portrait using P5js.
+* Production: 
+    * Due Jan 31 (post documentation on githu): Make a self-portrait using P5js. ([How to add images in markdown](https://github.com/MathuraMG/Resources/blob/main/Embedding-images-in-markdown.md)) | [Github for documentation](https://github.com/MathuraMG/Resources/blob/main/Github-for-documentation.md) | [Markdown](https://markdown-it.github.io/)
         * The portrait must be entirely created by your code i.e. you must not interact with your computer while the portrait is being made (e.g. no drawing using the mouse)
         * The portrait does not need to be dynamic (i.e. it does not need to change while we look at it)
         * The portrait does not need to be realistic. The purpose is to practice using the simple drawing functions.
