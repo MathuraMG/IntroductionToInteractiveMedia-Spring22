@@ -2,7 +2,7 @@ Here is a list of example projects for you to explore. This list is not exhausti
 A huge thanks to Prof. Aaron, and Prof. Michael for the many many projects curated in the list.
 
 
-* [Laser Harp + theremin](www.karthikpatanjali.com/#/tharp/)
+* [Laser Harp + theremin](https://www.karthikpatanjali.com/#/tharp/)
 * [How we act together](https://lauren-mccarthy.com/How-We-Act-Together)
 * [Danny Rozin Mirrors](https://www.youtube.com/watch?v=kV8v2GKC8WA)
 * [Ride a dragon](https://makezine.com/2016/11/03/climb-aboard-dragon-play-virtual-reality/)
