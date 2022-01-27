@@ -57,7 +57,7 @@
 * More inbuilt Varibles 
   * `width`, and `height` contain the width and the height of the canvas
   * `frameCount` keeps a tab of how many frames have run in the sketch. It can be used for some interesting animation.
-  * `mouseIsPressed` is a variable that let's us know when the mouse is pressed on the canvas. We will use this more in the upcoming classes.
+  *  🔴 💻 **[IN CLASS SKETCH - print, frameCount, and modulo operation(%)](https://editor.p5js.org/itp42/sketches/_Ot2FRR8V)**
 
 * Custom variables
   * In many cases we will want to create out own variables to store values. The syntax to do that is `let variableName = InitialValue;`
@@ -68,23 +68,20 @@
   * Why do we need variables?
     * reusability 
     * changing the values
-  * TO DO : Let's create and print a variable. Change it's value
 
 * Interaction and animation in p5
   * You can use the variables to create some simple animations.
-  * TO DO : Let's make a shape move across the canvas.
+  * 🔴 💻 **[IN CLASS SKETCH - making an ellipse move across the canvas](https://editor.p5js.org/itp42/sketches/OL70onMfe)**
+
 
 **Examples for Class 1**
 * [Change emoji colour and shape with mouse movement](https://editor.p5js.org/itp42/sketches/DPKwQyIK0)
 * [Interactive Mondrian composition](https://editor.p5js.org/itp42/sketches/P4cRwLPYl)
 * [Animation with arcs](https://editor.p5js.org/itp42/sketches/HKWOhem2H)
-* [Drawing on a canvas](https://editor.p5js.org/itp42/sketches/Oc2UVds7w)
-
 
 **Assignments:** 
-*Will be discussed in Thursday class*
 * Production: 
-    * Due Jan 31 (post documentation on githu): Make a self-portrait using P5js. ([How to add images in markdown](https://github.com/MathuraMG/Resources/blob/main/Embedding-images-in-markdown.md)) | [Github for documentation](https://github.com/MathuraMG/Resources/blob/main/Github-for-documentation.md) | [Markdown](https://markdown-it.github.io/)
+    * **Due Jan 31 by noon**(post documentation on github): Make a self-portrait using P5js. ([How to add images in markdown](https://github.com/MathuraMG/Resources/blob/main/Embedding-images-in-markdown.md)) | [Github for documentation](https://github.com/MathuraMG/Resources/blob/main/Github-for-documentation.md) | [Markdown](https://markdown-it.github.io/)
         * The portrait must be entirely created by your code i.e. you must not interact with your computer while the portrait is being made (e.g. no drawing using the mouse)
         * The portrait does not need to be dynamic (i.e. it does not need to change while we look at it)
         * The portrait does not need to be realistic. The purpose is to practice using the simple drawing functions.
