@@ -57,6 +57,7 @@
 * More inbuilt Varibles 
   * `width`, and `height` contain the width and the height of the canvas
   * `frameCount` keeps a tab of how many frames have run in the sketch. It can be used for some interesting animation.
+
 🔴 💻 **[IN CLASS SKETCH - print, frameCount, and modulo operation(%)](https://editor.p5js.org/itp42/sketches/_Ot2FRR8V)**
 
 * Custom variables
@@ -71,6 +72,7 @@
 
 * Interaction and animation in p5
   * You can use the variables to create some simple animations.
+
 🔴 💻 **[IN CLASS SKETCH - making an ellipse move across the canvas](https://editor.p5js.org/itp42/sketches/OL70onMfe)**
 
 
