@@ -90,5 +90,5 @@
         * The portrait does not need to be realistic. The purpose is to practice using the simple drawing functions.
 * Reading:
     * Due Feb 1:
-        * Getting Started with P5js
-        * Coordinate systems and space
+        * [Getting Started with P5js](https://p5js.org/get-started/)
+        * [Coordinate systems and space](https://p5js.org/learn/coordinate-system-and-shapes.html)
