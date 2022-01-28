@@ -9,38 +9,6 @@
 * angleMode
 
 **Topics covered in class**
-* Functions - why do we need them? How to we make and use them?
-  * `setup` and `draw` are functions that we are defining, but are being "called" by p5. ("Call" refers to actually running the lines of code inside the function)
-  * `background`, `ellipse` are functions that are already defined that we are "calling" 
-  * But why do we need them?
-    * Modularity of code
-    * Reusability of code
-  * p5 has a couple more inbuild functions that we can use along with `setup` and `draw'
-    * `mousePressed` - all lines of code inside this function will run when the mouse is pressed on the canvas
-    * `keyPressed`
-    * **TODO** : Go to the reference and check out what other similar functions we can use
-  * Defining and calling custom functions
-    * The syntax to define a function is  
-    ```
-      function functionName() {
-        // code goes here
-      }
-    ```
-    * to call a function you would just call it by the functions name
-    ```
-    functionName();
-    ```
-    * If the function has any arguments
-    ```
-    //function definition
-    function functionName(arg1, arg2) {
-      // code goes here
-    }
-    
-    //calling the function
-    functionName(val1, val2);
-    ```
-  * **TODO** : make a function that draws a car in a given x and y
 
 * Conditionals
   * You would use a conditional (if-else) when you want certain blocks of code to run only when a certain condition is satisfied
@@ -56,15 +24,15 @@
   * **TODO** : use if-else to draw a red ellipse when on the left half of the canvas, and draw a blue ellipse on the right half
   * Multiple conditions! In case of multiple conditions, we will use the `else if` conditional
   * **TODO** : Draw different coloured ellipses in each quadrant
+  * We can use the if statements to now make a bouncing ball!
   * We can now use the inbuilt variable - `mouseIsPressed`
-  * **TODO** : update the previous code to draw only when the mouse is pressed
-  * NOTE: `mouseIsPressed` is a boolean variable, it either provides true or false. If we use it in draw, we are always checking for the condition. Whereas, if we use the function `mousePressed`, then we are running the code inside it ONLY when the mosue is pressed.
-
+  * **TODO** : create a button - go over the concept of multiple conditions inside an if statement
 * Loops
   * Loops are used to repeat code
   * There are 2 kinds of loops we will be looking at - `for` loops and `while` loops.
-
-* While loops
+* For loops
+* Nested loops
+* While loops - aquick look
   * The syntax for while loops is similar to `if` statement. The main difference is that, in a `if` block, the code inside runs once after the condition is checked. In a `while` loop, the code inside the while block runs as long as the condition is satisfied before leaving the code block.
   ``` 
   while(condition) {
@@ -82,8 +50,9 @@
 ### Feb 3 - 1:15pm - 2:30pm
 
 **Topics covered in class**
-* For loops
-* Nested loops
+
+* random function
+* noise function
 
 
 **Examples for Class 2**
