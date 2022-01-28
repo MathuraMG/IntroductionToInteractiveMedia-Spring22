@@ -81,7 +81,7 @@
 * [Interactive Mondrian composition](https://editor.p5js.org/itp42/sketches/P4cRwLPYl)
 * [Animation with arcs](https://editor.p5js.org/itp42/sketches/HKWOhem2H)
 
-**Assignments:** 
+### Assignments:
 * Production: 
     * **Due Jan 31 by noon**(post documentation on github): Make a self-portrait using P5js. ([How to add images in markdown](https://github.com/MathuraMG/Resources/blob/main/Embedding-images-in-markdown.md)) | [Github for documentation](https://github.com/MathuraMG/Resources/blob/main/Github-for-documentation.md) | [Markdown](https://markdown-it.github.io/)
         * The portrait must be entirely created by your code i.e. you must not interact with your computer while the portrait is being made (e.g. no drawing using the mouse)
