@@ -41,6 +41,10 @@
   ```
   * **TODO**: use while loop to draw 10 ellipses on the screen
  * Be careful of infinite loops!!
+ * Other Functions we can use!
+   * random function
+   * noise function
+   * sin
 
 
 🔴 💻 **[IN CLASS SKETCH - TBD]()**
@@ -53,6 +57,7 @@
 
 * random function
 * noise function
+* sin
 
 
 **Examples for Class 2**
