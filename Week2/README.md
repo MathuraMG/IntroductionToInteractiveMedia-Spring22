@@ -71,6 +71,7 @@
 
 
 **Examples for Class 2**
+* You can find the examples under ["Week_2" in the p5 editor collection](https://editor.p5js.org/itp42/collections/7rk8Q1jPf)
 
 
 
@@ -78,11 +79,11 @@
 *Will be discussed in Thursday class*
 * Production:
     * Due Feb. 7th (post documentation on blog): Using loops (for() or while()) in some way, along with everything that you’ve learned so far, make a simple work of art. You may want to look at these old computer art magazines for inspiration, but you don’t need to make your so elaborate. Scroll through and look for images:
-        * COMPUTER_GRAPHICS_AND_ART_Aug1977
-        * ProgrammInformation21_PI21
-        * COMPUTER_GRAPHICS_AND_ART_May1976
+       * [COMPUTER_GRAPHICS_AND_ART_Aug1977](http://dada.compart-bremen.de/docUploads/COMPUTER_GRAPHICS_AND_ART_Aug1977.pdf)
+	      * [ProgrammInformation21_PI21](http://dada.compart-bremen.de/docUploads/ProgrammInformation21_PI21.pdf)
+       * [COMPUTER_GRAPHICS_AND_ART_May1976](http://dada.compart-bremen.de/docUploads/COMPUTER_GRAPHICS_AND_ART_May1976.pdf)
 * Reading:
-    * Due Feb. 8: Watch Casey Reas’ Eyeo talk on chance operations, be prepared to discuss
+    * Due Feb. 8: Watch [Casey Reas’ Eyeo talk on chance operations](https://vimeo.com/45851523), be prepared to discuss
         * Guidance on this discussion format can be found here
     * If you are new to functions or want to review, watch Dan Shiffman’s functions tutorials. There are four videos, each less than 10 minutes.
     * Watch at least the first four of Dan Shiffman’s Object Oriented Programming tutorials.
