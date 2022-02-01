@@ -9,3 +9,5 @@ this is the things i tried
 
 [Link to project](https://editor.p5js.org/)
 https://editor.p5js.org/
+
+![fish](https://github.com/MathuraMG/IntroductionToInteractiveMedia/blob/master/Homework/Week1/fish.png)
