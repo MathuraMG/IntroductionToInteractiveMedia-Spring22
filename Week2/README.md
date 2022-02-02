@@ -107,7 +107,7 @@
 	      * [ProgrammInformation21_PI21](http://dada.compart-bremen.de/docUploads/ProgrammInformation21_PI21.pdf)
        * [COMPUTER_GRAPHICS_AND_ART_May1976](http://dada.compart-bremen.de/docUploads/COMPUTER_GRAPHICS_AND_ART_May1976.pdf)
 * Reading:
-    * Due Feb. 8: Watch [Casey Reas’ Eyeo talk on chance operations](https://vimeo.com/45851523), be prepared to discuss
+    * Due Feb. 8: Watch [Casey Reas’ Eyeo talk on chance operations](https://vimeo.com/45851523), be prepared to discuss **STUDENTS WILL BE PICKED IN CLASS**
         * [Guidance on this discussion format can be found here](https://github.com/MathuraMG/IntroductionToInteractiveMedia/blob/master/syllabus.md#student-led-discussions)
     * If you are new to functions or want to review, watch Dan Shiffman’s functions tutorials. There are four videos, each less than 10 minutes.
     * Watch at least the first four of Dan Shiffman’s Object Oriented Programming tutorials.
