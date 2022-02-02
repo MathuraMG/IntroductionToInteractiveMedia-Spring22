@@ -36,7 +36,9 @@
   * We can use the if statements to now make a bouncing ball!
 
 🔴 💻 **[IN CLASS SKETCH - Change the colour of the ellipse depending on where on the canvas it is](https://editor.p5js.org/itp42/sketches/78SmP6ATp)**
+
 🔴 💻 **[IN CLASS SKETCH - Make a button using if else](https://editor.p5js.org/itp42/sketches/vNxA3MhBt)**
+
 🔴 💻 **[IN CLASS SKETCH - Make a bouncing ball](https://editor.p5js.org/itp42/sketches/0xfz3K82K)**
   
 * Loops
@@ -53,6 +55,7 @@
   * If you want a whole number, you can use `floor(random(x,y))` 
   
 🔴 💻 **[IN CLASS SKETCH - Make a grid of colour changing squares](https://editor.p5js.org/itp42/sketches/6WQ_2AAEy)**
+
 🔴 💻 **[IN CLASS SKETCH - 10PRINT](https://editor.p5js.org/itp42/sketches/HUHHrIk2O)**
 
 **Notes from class**
