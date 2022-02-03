@@ -65,7 +65,7 @@
 
 
 ## Class 2 - Part 2
-### Feb 3 - 1:15pm - 2:30pm
+### Feb 3 - 2:40pm - 3:55pm
 
 **Topics covered in class**
 
