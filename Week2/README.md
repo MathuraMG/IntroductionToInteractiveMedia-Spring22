@@ -95,8 +95,14 @@
 
 * IF time permits - translation and rotation
 
+🔴 💻 **[IN CLASS SKETCH - While Loop](https://editor.p5js.org/itp42/sketches/pbPNP14Jg)**
+
+🔴 💻 **[IN CLASS SKETCH - Recap - For loop](https://editor.p5js.org/itp42/sketches/nfk2bzhTf)**
+
+🔴 💻 **[IN CLASS SKETCH - Recap - If else](https://editor.p5js.org/itp42/sketches/Gru175F0V)**
+
 **Examples for Class 2**
-* You can find the examples under ["Week_2" in the p5 editor collection](https://editor.p5js.org/itp42/collections/7rk8Q1jPf)
+* You can find the all examples under ["Week_2" in the p5 editor collection](https://editor.p5js.org/itp42/collections/7rk8Q1jPf)
 
 
 **Assignments:** 
