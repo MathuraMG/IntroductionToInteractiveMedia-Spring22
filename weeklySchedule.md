@@ -44,13 +44,13 @@
 *Assignments:*
 
 * Production:
-    * Due Feb. 14 (post documentation on blog): Create either an artwork or a game using Object-Oriented Programming. You may use arrays if you wish. Pay attention to the structure, clarity, and organization of your program. As always, document your project:
+    * Due Feb. 14 (post documentation on blog): Create either an artwork using Object-Oriented Programming. You may use arrays if you wish. Pay attention to the structure, clarity, and organization of your program. As always, document your project:
         * Well commented code, especially for any confusing or tricky parts
         * References to any examples or inspiration
         * Functions as needed to organize your program
         * Excellent names for variables and functions
         * Post code and one or more images
-        * Describe the overall concept of your game or artwork
+        * Describe the overall concept of your artwork
         * Include the image(s) or link(s) to video
         * Describe any problems you ran into
 * Reading:
