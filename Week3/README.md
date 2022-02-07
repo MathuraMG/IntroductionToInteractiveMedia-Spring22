@@ -7,7 +7,7 @@
 * Start working on Functions
 * Break
 * Arrays
-* Continue with Arrays 
+* Objects
 
 ## Recap
 * How is everyone feeling about loops and if statements?
