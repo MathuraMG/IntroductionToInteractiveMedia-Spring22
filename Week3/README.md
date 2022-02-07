@@ -1,3 +1,20 @@
+## Class Plan
+* Soumen, Shamsa Discussion
+* What is generative artwork
+* Go over homework
+* Start working on Functions
+* Break
+* Arrays
+* Continue with Arrays 
+
+## Recap
+
+## Topics we will cover in class
+* Functions
+* Arrays
+* Objects
+
+## Lecture Notes
 * Functions - why do we need them? How to we make and use them?
   * `setup` and `draw` are functions that we are defining, but are being "called" by p5. ("Call" refers to actually running the lines of code inside the function)
   * `background`, `ellipse` are functions that are already defined that we are "calling" 
@@ -30,3 +47,7 @@
     functionName(val1, val2);
     ```
   * **TODO** : make a function that draws a car in a given x and y
+  * We will be starting with this piece of code - https://editor.p5js.org/itp42/sketches/1teX1P5t6
+
+## Assignment
+
