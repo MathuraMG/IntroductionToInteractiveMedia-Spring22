@@ -20,6 +20,10 @@
 * Objects
 
 ## Lecture Notes
+* Transformations
+  * push, pop
+  * translate
+  * rotate 
 * Functions - why do we need them? How to we make and use them?
   * `setup` and `draw` are functions that we are defining, but are being "called" by p5. ("Call" refers to actually running the lines of code inside the function)
   * `background`, `ellipse` are functions that are already defined that we are "calling" 
