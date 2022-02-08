@@ -4,6 +4,7 @@
 * Soumen, Shamsa Discussion
 * What is generative artwork
 * Go over homework
+* Transformations?
 * Start working on Functions
 * Break
 * Arrays
@@ -13,6 +14,7 @@
 * How is everyone feeling about loops and if statements?
 
 ## Topics we will cover in class
+* Transformations?
 * Functions
 * Arrays
 * Objects
