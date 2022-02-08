@@ -24,6 +24,9 @@
   * push, pop
   * translate
   * rotate 
+**🔹💻[In Class Code](https://editor.p5js.org/itp42/sketches/nrccPUcPR4)**
+
+
 * Functions - why do we need them? How to we make and use them?
   * `setup` and `draw` are functions that we are defining, but are being "called" by p5. ("Call" refers to actually running the lines of code inside the function)
   * `background`, `ellipse` are functions that are already defined that we are "calling" 
@@ -57,6 +60,7 @@
     ```
   * **TODO** : make a function that draws a car in a given x and y
   * We will be starting with this piece of code - https://editor.p5js.org/itp42/sketches/1teX1P5t6
+**🔹💻[In Class Code](https://editor.p5js.org/itp42/sketches/M6vCfxiEF)**
 
 * Ararys
   * Why do we use arrays?
@@ -71,6 +75,7 @@
     * Given that the index of an array goes from 0 to `a.length-1`
   * **PRACTICE**  : Let's make an array containing 5 numbers in setup, and print all the numbers inside it. Can you do it with a for loop?
   * **TODO** : Let's go back to the car code, and add more cars with more positions
+**🔹💻[In Class Code](https://editor.p5js.org/itp42/sketches/w2tv9CZIB)**
 
 * Objects
   * What is an object?
