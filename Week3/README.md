@@ -24,6 +24,7 @@
   * push, pop
   * translate
   * rotate 
+
 **🔹💻[In Class Code](https://editor.p5js.org/itp42/sketches/nrccPUcPR4)**
 
 
@@ -60,6 +61,7 @@
     ```
   * **TODO** : make a function that draws a car in a given x and y
   * We will be starting with this piece of code - https://editor.p5js.org/itp42/sketches/1teX1P5t6
+
 **🔹💻[In Class Code](https://editor.p5js.org/itp42/sketches/M6vCfxiEF)**
 
 * Ararys
@@ -75,6 +77,7 @@
     * Given that the index of an array goes from 0 to `a.length-1`
   * **PRACTICE**  : Let's make an array containing 5 numbers in setup, and print all the numbers inside it. Can you do it with a for loop?
   * **TODO** : Let's go back to the car code, and add more cars with more positions
+
 **🔹💻[In Class Code](https://editor.p5js.org/itp42/sketches/w2tv9CZIB)**
 
 * Objects
@@ -90,6 +93,12 @@
   * **TODO** Let's create a car class!
   * Create a new object using the car class
   * Make an array of cars!
+
+**🔹💻[In Class Code - 1 - Objects](https://editor.p5js.org/itp42/sketches/BHx99EDVz)**
+
+**🔹💻[In Class Code - 1 - Objects | Arrays](https://editor.p5js.org/itp42/sketches/aDRvuABPM)**
+
+**🔹💻[In Class Code - 1 - Objects | Ararys | MousePressed](https://editor.p5js.org/itp42/sketches/1FD-dKWxg)**
  
 ## Assignment
 
