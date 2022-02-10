@@ -94,7 +94,7 @@
 ## Assignment
 
 * Production:
-    * Due Feb. 14 (post documentation on blog): Create either an artwork using Object-Oriented Programming. You may use arrays if you wish. Pay attention to the structure, clarity, and organization of your program. As always, document your project:
+    * Due Feb. 14 (post documentation on blog): Create an artwork using Object-Oriented Programming. You may use arrays if you wish. Pay attention to the structure, clarity, and organization of your program. As always, document your project:
         * Well commented code, especially for any confusing or tricky parts
         * References to any examples or inspiration
         * Functions as needed to organize your program
@@ -104,7 +104,7 @@
         * Include the image(s) or link(s) to video
         * Describe any problems you ran into
 * Reading:
-    * Due Feb. 15: read The Art of Interactive Design, Ch. 1, be prepared to discuss
-    * Watch this two part (part 1 and part 2) video tutorial on transformations
-    * Watch this video tutorial on Perlin noise
+    * Due Feb. 15: read [The Art of Interactive Design, Ch. 1](https://intro.nyuadim.com/wp-content/uploads/2020/08/theArtOfInteractiveDesign.pdf), be prepared to discuss **Dilnaz and Jannah**
+    * Watch this two part ([part 1](https://www.youtube.com/watch?v=o9sgjuh-CBM&ab_channel=TheCodingTrain) and [part 2](https://www.youtube.com/watch?v=pkHZTWOoTLM&ab_channel=TheCodingTrain)) video tutorial on transformations
+    * Watch this video tutorial on [Perlin noise](https://www.youtube.com/watch?v=Qf4dIN99e2w&ab_channel=TheCodingTrain)
 
