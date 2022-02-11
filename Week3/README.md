@@ -98,7 +98,7 @@
 
 **🔹💻[In Class Code - 1 - Objects | Arrays](https://editor.p5js.org/itp42/sketches/aDRvuABPM)**
 
-**🔹💻[In Class Code - 1 - Objects | Ararys | MousePressed](https://editor.p5js.org/itp42/sketches/1FD-dKWxg)**
+**🔹💻[In Class Code - 1 - Objects | Arrays | MousePressed](https://editor.p5js.org/itp42/sketches/1FD-dKWxg)**
  
 ## Assignment
 
