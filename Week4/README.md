@@ -63,13 +63,9 @@
 **Assignments:** 
 *Will be discussed in Thursday class*
 * Production:
-    * Due Feb. 7th (post documentation on blog): Using loops (for() or while()) in some way, along with everything that you’ve learned so far, make a simple work of art. You may want to look at these old computer art magazines for inspiration, but you don’t need to make your so elaborate. Scroll through and look for images:
-       * [COMPUTER_GRAPHICS_AND_ART_Aug1977](http://dada.compart-bremen.de/docUploads/COMPUTER_GRAPHICS_AND_ART_Aug1977.pdf)
-	      * [ProgrammInformation21_PI21](http://dada.compart-bremen.de/docUploads/ProgrammInformation21_PI21.pdf)
-       * [COMPUTER_GRAPHICS_AND_ART_May1976](http://dada.compart-bremen.de/docUploads/COMPUTER_GRAPHICS_AND_ART_May1976.pdf)
-* Reading:
-    * Due Feb. 8: Watch [Casey Reas’ Eyeo talk on chance operations](https://vimeo.com/45851523), be prepared to discuss **Shamsa, Soumen**
-        * [Guidance on this discussion format can be found here](https://github.com/MathuraMG/IntroductionToInteractiveMedia/blob/master/syllabus.md#student-led-discussions)
-    * If you are new to functions or want to review, watch Dan Shiffman’s functions tutorials. There are four videos, each less than 10 minutes.
-    * Watch at least the first four of Dan Shiffman’s Object Oriented Programming tutorials.
+  * Due Feb. 21 (post documentation on blog): Either make some sort of data visualization, or create a generative text output.
+  * Due Feb. 22 (no blog post needed): Bring an idea (or ideas) to class for your midterm. We will spend part of class next week working on your midterms.
 
+* Reading:
+  * Due Feb. 22: Read [The Design of Everyday Things, The Psychopathology of Everyday Things](https://pages.ucsd.edu/~mboyle/COGS1/readings/Norman-COGS1-The%20Psychopathology-of-Everyday-Things.pdf) be prepared to discuss **?? and ??**
+Read about image processing in p5js: https://idmnyu.github.io/p5.js-image/ or watch Shiffman’s videos: https://www.youtube.com/watch?v=-f0WEitGmiw&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9&ab_channel=TheCodingTrain
