@@ -43,7 +43,13 @@
  
 🔸💻 **[Example for animating text](https://editor.p5js.org/itp42/sketches/hBozBZDr-)**
 
-  * **TODO** : can you now animate each of the ellipses by putting it in a class?
+## Class 4 - Part 2
+### Feb 17 - 2:40pm - 3:55pm
+
+**Topics covered in class**
+
+
+* **TODO** : can you now animate each of the ellipses by putting it in a class?
 
 **If time permits**
 
@@ -52,12 +58,6 @@
   * There are 2 forms of data that we are going to be looking at - csv and json
   * CSV -> comma seperated values (you can use the `laodCVS` function
   * JSON -> Javascript object notation - very very very similar to objects that we did in last class - you can use the `loadJSON` function
-
-## Class 4 - Part 2
-### Feb 17 - 2:40pm - 3:55pm
-
-**Topics covered in class**
-
 
 
 **Assignments:** 
