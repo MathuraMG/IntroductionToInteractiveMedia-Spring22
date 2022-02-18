@@ -43,6 +43,16 @@
  
 🔸💻 **[Example for animating text](https://editor.p5js.org/itp42/sketches/hBozBZDr-)**
 
+You can find codes we did in class below
+
+🔸💻 **[In Class - Polar Coordniates](https://editor.p5js.org/itp42/sketches/rn15hJZf5)**
+
+🔸💻 **[In Class - Text -1](https://editor.p5js.org/itp42/sketches/qG_oODYYf)**
+
+🔸💻 **[In Class - text-2](https://editor.p5js.org/itp42/sketches/_grgx9Gao)**
+
+🔸💻 **[In Class - text-t-points](https://editor.p5js.org/itp42/sketches/gsbl01ead)**
+
 ## Class 4 - Part 2
 ### Feb 17 - 2:40pm - 3:55pm
 
@@ -60,6 +70,14 @@
   * JSON -> Javascript object notation - very very very similar to objects that we did in last class - you can use the `loadJSON` function
 
 
+🔸💻 **[In Class - Bounce Class](https://editor.p5js.org/itp42/sketches/xbtAIZ9u1)**
+
+🔸💻 **[In Class - Bouncing Text](https://editor.p5js.org/itp42/sketches/PHGlLPU0-)**
+
+🔸💻 **[In Class - Load CSV](https://editor.p5js.org/itp42/sketches/HJT2hX2kT)**
+
+🔸💻 **[Extra example - Load JSON](https://editor.p5js.org/itp42/sketches/VUdopW8Mz)**
+
 **Assignments:** 
 *Will be discussed in Thursday class*
 * Production:
@@ -67,5 +85,5 @@
   * Due Feb. 22 (no blog post needed): Bring an idea (or ideas) to class for your midterm. We will spend part of class next week working on your midterms.
 
 * Reading:
-  * Due Feb. 22: Read [The Design of Everyday Things, The Psychopathology of Everyday Things](https://pages.ucsd.edu/~mboyle/COGS1/readings/Norman-COGS1-The%20Psychopathology-of-Everyday-Things.pdf) be prepared to discuss **?? and ??**
+  * Due Feb. 22: Read [The Design of Everyday Things, The Psychopathology of Everyday Things](https://pages.ucsd.edu/~mboyle/COGS1/readings/Norman-COGS1-The%20Psychopathology-of-Everyday-Things.pdf) be prepared to discuss **Fatema and Bato**
 Read about image processing in p5js: https://idmnyu.github.io/p5.js-image/ or watch Shiffman’s videos: https://www.youtube.com/watch?v=-f0WEitGmiw&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9&ab_channel=TheCodingTrain
