@@ -86,4 +86,4 @@ You can find codes we did in class below
 
 * Reading:
   * Due Feb. 22: Read [The Design of Everyday Things, The Psychopathology of Everyday Things](https://pages.ucsd.edu/~mboyle/COGS1/readings/Norman-COGS1-The%20Psychopathology-of-Everyday-Things.pdf) be prepared to discuss **Fatema and Bato**
-Read about image processing in p5js: https://idmnyu.github.io/p5.js-image/ or watch Shiffman’s videos: https://www.youtube.com/watch?v=-f0WEitGmiw&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9&ab_channel=TheCodingTrain
+Read about image processing in p5js: https://idmnyu.github.io/p5.js-image/ or watch Shiffman’s videos: https://www.youtube.com/watch?v=nMUMZ5YRxHI&ab_channel=TheCodingTrain
