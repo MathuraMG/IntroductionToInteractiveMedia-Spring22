@@ -87,3 +87,15 @@ You can find codes we did in class below
 * Reading:
   * Due Feb. 22: Read [The Design of Everyday Things, The Psychopathology of Everyday Things](https://pages.ucsd.edu/~mboyle/COGS1/readings/Norman-COGS1-The%20Psychopathology-of-Everyday-Things.pdf) be prepared to discuss **Fatema and Bato**
 Read about image processing in p5js: https://idmnyu.github.io/p5.js-image/ or watch Shiffman’s videos: https://www.youtube.com/watch?v=nMUMZ5YRxHI&ab_channel=TheCodingTrain
+
+## * Midterm Project Details :
+    * Make a game using everything you have learned so far
+    * Due Mar. 10th
+    * Can be one or more players
+    * Must include
+        * At least one shape
+        * At least one image
+        * At least one sound
+        * At least one on-screen text
+    * The game must start with a screen giving instructions, and must wait there until a button or key (your choice) is pressed
+    * After the game is won or lost, there must be a way to restart the game without closing and restarting the program
