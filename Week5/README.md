@@ -55,6 +55,19 @@
 
 🔴💻[Example - playing a sound](https://editor.p5js.org/itp42/sketches/DvEsT_BFX)
  
+### Practicing Classes
+**This is not graded! But I would like for you all to be able to do this**
+* Create a class "Flower"
+* Flower should have the following functions
+  *  draw 
+  *  sway
+  *  grow (BONUS)
+* Your sketch should be able to do the following
+  * Create a flower at mouseX and mouseY when you click the mouse on the canvas
+  * If user drags the mouse across the canvas, all the flowers should sway ( you can implement the sway functionality either using `random` or `noise`
+  * BONUS : Only the flowers close to the mouse sway when you drag the mouse
+  * BONUS : The flower grows over time
+ 
 ### Assignment
 * Production:
   * Due Feb. 28 (post documentation on blog): Make some progress on your midterm project:
