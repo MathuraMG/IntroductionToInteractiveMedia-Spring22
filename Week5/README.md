@@ -70,10 +70,11 @@
  
 ### Assignment
 * Production:
-  * Due Feb. 28 (post documentation on blog): Make some progress on your midterm project:
+  * Due Feb. 28 (post documentation on blog): **Make some progress on your midterm project:**
   * Midterm Project:
     * Make a game using everything you have learned so far
     * Midterm is due Mar. 10th
+    * We will go through whatever you have completed so far in class on March 3rd
     * Can be one or more players
     * Must include
       * At least one shape
