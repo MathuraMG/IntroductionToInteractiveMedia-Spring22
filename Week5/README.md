@@ -73,7 +73,7 @@
   * Due Feb. 28 (post documentation on blog): Make some progress on your midterm project:
   * Midterm Project:
     * Make a game using everything you have learned so far
-    * Due Mar. 3rd
+    * Midterm is due Mar. 10th
     * Can be one or more players
     * Must include
       * At least one shape
