@@ -54,6 +54,9 @@
   * You can play the sounds by saying `mySound.play`
 
 🔴💻[Example - playing a sound](https://editor.p5js.org/itp42/sketches/DvEsT_BFX)
+
+🔴💻[Example - recording AND looping a sound](https://editor.p5js.org/itp42/sketches/TIDgPux7M)
+
  
 ### Practicing Classes
 **This is not graded! But I would like for you all to be able to do this**
@@ -67,6 +70,8 @@
   * If user drags the mouse across the canvas, all the flowers should sway ( you can implement the sway functionality either using `random` or `noise`
   * BONUS : Only the flowers close to the mouse sway when you drag the mouse
   * BONUS : The flower grows over time
+
+🔴💻[Possible solution](https://editor.p5js.org/itp42/sketches/sJeLPF6mN)
  
 ### Assignment
 * Production:
@@ -85,6 +90,6 @@
     * After the game is won or lost, there must be a way to restart the game without closing and restarting the program
     * **NEW** : Your project must make use of OOP
   * Reading:
-    * Due Feb. 28 (be prepared to discuss):
-    * Read Computer Vision for Artists and Designers
+    * Due Feb. 28 (be prepared to discuss): **Aakarsh** and **Maisha**
+    * Read [Computer Vision for Artists and Designers](http://www.flong.com/archive/texts/essays/essay_cvad/index.html)
  
