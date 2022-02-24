@@ -83,6 +83,7 @@
       * At least one on-screen text
     * The game must start with a screen giving instructions, and must wait there until a button or key (your choice) is pressed
     * After the game is won or lost, there must be a way to restart the game without closing and restarting the program
+    * **NEW** : Your project must make use of OOP
   * Reading:
     * Due Feb. 28 (be prepared to discuss):
     * Read Computer Vision for Artists and Designers
