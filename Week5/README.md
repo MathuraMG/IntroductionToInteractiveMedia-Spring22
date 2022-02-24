@@ -55,7 +55,7 @@
 
 🔴💻[Example - playing a sound](https://editor.p5js.org/itp42/sketches/DvEsT_BFX)
 
-🔴💻[Example - recording AND looping a sound](https://editor.p5js.org/itp42/sketches/TIDgPux7M)
+🔴💻[Example - recording AND looping a sound](https://editor.p5js.org/itp42/sketches/TIDgPux7M) (Issue to be fixed still)
 
  
 ### Practicing Classes
