@@ -8,6 +8,7 @@
 
 **Recap**
 * How to use grids as part of games
+* return functions
 * Switch case as an alternate to if statement
 
 **Examples**
