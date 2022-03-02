@@ -53,6 +53,7 @@
  ## Class 6 - Part 2
 ### March 3 - 2:40pm - 3:55pm
 Work on project in class
+HTML and p5
  
 ### Assignment
 * Production:
