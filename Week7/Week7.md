@@ -20,22 +20,24 @@ To make your canvas the size of your screen you can simply say `createCanvas(win
 
 # Presentation order 
 (this list was randomly generated)
-1.Dilnaz
-1.Sunny
-1.Shamsa
-1.Bato
-1.Maisha
-1.Insiya
-1.Meera
-1.Fatema
-1.Jannah
-1.Aakarsh
-1.Fahad
-1.Devyn
-1.Liza
-1.Dania
-1.Soumen
-1.Hind
+
+1. Dilnaz
+1. Sunny
+1. Shamsa
+1. Bato
+1. Maisha
+1. Insiya
+1. Meera
+1. Fatema
+1. Jannah
+1. Aakarsh
+1. Fahad
+1. Devyn
+1. Liza
+1. Dania
+1. Soumen
+
+* Hind - TBD
 
 # Prepping for next module!
 * Head over to the bookstore and pick up your kit. It will contain the Arduino and other hardware materials that you would need. Make sure to pick it up **THIS WEEK**
