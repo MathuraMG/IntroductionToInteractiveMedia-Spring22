@@ -18,6 +18,9 @@ To make your canvas the size of your screen you can simply say `createCanvas(win
 * If you are making a smaller canvas, you would typically like to keep it in the center of your screen. You can do that by adding some code in your style.css. I have included the code required for the same in the below editor link
 * https://editor.p5js.org/itp42/sketches/4yYMl2c3P
 
+### Game Mechanics Example
+https://editor.p5js.org/itp42/sketches/hCa_xCoY5
+
 # Presentation order 
 (this list was randomly generated)
 
