@@ -24,6 +24,8 @@ https://editor.p5js.org/itp42/sketches/hCa_xCoY5
 # Presentation order 
 (this list was randomly generated)
 
+**[ADD YOUR LINKS HERE](https://docs.google.com/document/d/1RyHkaQ0Vc26DW6VBwWYhUobXwkaVfpdFfPi_M7Rh1G8/edit)**
+
 1. Dilnaz
 1. Sunny
 1. Shamsa
@@ -41,6 +43,8 @@ https://editor.p5js.org/itp42/sketches/hCa_xCoY5
 1. Soumen
 
 * Hind - TBD
+
+
 
 # Prepping for next module!
 * Head over to the bookstore and pick up your kit. It will contain the Arduino and other hardware materials that you would need. Make sure to pick it up **THIS WEEK**
