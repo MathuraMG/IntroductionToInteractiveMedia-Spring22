@@ -4,7 +4,8 @@
 * Attendance
 * Do you have your kit?
 * Arduino IDE?
-* Install this -> https://docs.arduino.cc/cloud/web-editor/tutorials/getting-started/getting-started-web-editor
+* Install this -> https://www.arduino.cc/en/software
+* (if you want to use online editor https://docs.arduino.cc/cloud/web-editor/tutorials/getting-started/getting-started-web-editor )
 
 ### Electricity
 * Refers to the flow of electrons
@@ -20,7 +21,7 @@
     * Something to control the flow of energy, eg - switch
     * We can also use a resistor to control the amount of power passing through the output 
 * The main values we look at in a circuit - Current, Voltage, and Resistance. The 3 of them are related by Ohm’s Law - V = I*R. This is important. Remember this, memorize it, say it in your sleep.
-* All components have a voltage across them, current flowing through them, and an internal resistance.  We will go into the details of Ohm’s Law the next week
+* All components have a voltage across them, current flowing through them, and an internal resistance. *We will go into the details of Ohm’s Law the next week*
 * We always draw schematics for the circuits we build - schematics basically refers to symbolic representation of the circuit (similar to blueprints for a building) (Image courtesy - https://makeabilitylab.github.io/)
 ![Circuit schematics](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/1.png)
 
@@ -99,7 +100,7 @@ void loop() {
 * Production:
     * Due Mar. 28 (post documentation on blog): Create an unusual switch that doesn’t require the use of your hands. Use Arduino digital input and output for the interaction.
         * Examples:
-            * Get creative with switches: https://itp.nyu.edu/physcomp/labs/switches/#Get_Creative_With_Switches 
+            * Get creative with switches: https://itp.nyu.edu/physcomp/labs/switches/#Get_Creative_With_Switches
 * Reading:
     * Due Mar. 28 (be prepared to discuss both):
         * [Norman,“Emotion & Design: Attractive things work better”](https://jnd.org/emotion_design_attractive_things_work_better/)
