@@ -22,11 +22,11 @@
 * The main values we look at in a circuit - Current, Voltage, and Resistance. The 3 of them are related by Ohm’s Law - V = I*R. This is important. Remember this, memorize it, say it in your sleep.
 * All components have a voltage across them, current flowing through them, and an internal resistance.  We will go into the details of Ohm’s Law the next week
 * We always draw schematics for the circuits we build - schematics basically refers to symbolic representation of the circuit (similar to blueprints for a building) (Image courtesy - https://makeabilitylab.github.io/)
-![Circuit schematics]()
+![Circuit schematics](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/1.png)
 
 * Let’s draw out our first circuit
 * Let’s also take a quick look at how a breadboard works 
-![Breadboard connections]()
+![Breadboard connections](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/2.png)
 * TODO : We can connects the LED directly to the power source first and see what happens. We’re also going to add a resistor to reduce the voltage across the LED
 * TODO :  what if we want to turn this off?
 
@@ -56,13 +56,13 @@ void loop() {
 
 ### Code on the Arduino + Breadboard - 1
 * Try the first circuit with an LED alone
-![Circuit 1]()
+![Circuit 1](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/3.png)
 * Now let’s connect the breadboard to the Arduino and see what we can do
 * We will be using the digital output pins for controlling the LED. The digital output will give an output of wither 0V or 5V
 
 ### Code on the Arduino + Breadboard - 2
 * Note about using buttons - we need to add pull down resistors, this is to ensure that when we are NOT pressing the button, the button does not pick up a floating value, but is instead connected to ground (current likes to take the path of least resistance, so when the button is pressed it will be connected to 5V)
-![Circuit 2]()
+![Circuit 2](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/4.png)
 * TODO : Connect an LED to pin 7 and try making a pattern with the LED
 * TODO : Connect button to pin 3 and work on digitalRead
 ```
