@@ -102,9 +102,10 @@ void loop() {
         * Examples:
             * Get creative with switches: https://itp.nyu.edu/physcomp/labs/switches/#Get_Creative_With_Switches
 * Reading:
-    * Due Mar. 28 (be prepared to discuss both):
+    * Due Mar. 28 (be prepared to discuss both): **Dania and Sunny**
         * [Norman,“Emotion & Design: Attractive things work better”](https://jnd.org/emotion_design_attractive_things_work_better/)
         * [Her Code Got Humans on the Moon](http://www.wired.com/2015/10/margaret-hamilton-nasa-apollo/)
+    * Read about digital input and output [https://itp.nyu.edu/physcomp/lessons/digital-input-output/]
     * Read about [analog output](https://itp.nyu.edu/physcomp/lessons/analog-output/)
     * Read about [analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
 
