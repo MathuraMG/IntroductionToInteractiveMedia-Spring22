@@ -32,69 +32,6 @@
 * TODO :  what if we want to turn this off?
 
 
-### Code on the Arduino
-* TODO : Blink example - walk through the example
-* There are functions setup and void here just like in p5. But you will notice the work “void” instead of function. Let’s talk more on this next class
-* Let’s look at the functions within the code
-```
-// the setup function runs once when you press reset or power the board
-void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  pinMode(LED_BUILTIN, OUTPUT);
-}
-```
-```
-// the loop function runs over and over again forever
-void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
-}
-```
-* TODO - Let’s upload this code and run it
-* TODO - Change the delay on the code and see what happens
-
-### Code on the Arduino + Breadboard - 1
-* Try the first circuit with an LED alone
-![Circuit 1](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/3.png)
-* Now let’s connect the breadboard to the Arduino and see what we can do
-* We will be using the digital output pins for controlling the LED. The digital output will give an output of wither 0V or 5V
-
-### Code on the Arduino + Breadboard - 2
-* Note about using buttons - we need to add pull down resistors, this is to ensure that when we are NOT pressing the button, the button does not pick up a floating value, but is instead connected to ground (current likes to take the path of least resistance, so when the button is pressed it will be connected to 5V)
-![Circuit 2](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/4.png)
-* TODO : Connect an LED to pin 7 and try making a pattern with the LED
-* TODO : Connect button to pin 3 and work on digitalRead
-```
-// constants won't change. They're used here to set pin numbers:
-const int buttonPin = 3;     // the number of the pushbutton pin
-const int ledPin =  7;      // the number of the LED pin
-
-// variables will change:
-int buttonState = 0;         // variable for reading the pushbutton status
-
-void setup() {
-  // initialize the LED pin as an output:
-  pinMode(ledPin, OUTPUT);
-  // initialize the pushbutton pin as an input:
-  pinMode(buttonPin, INPUT);
-}
-
-void loop() {
-  // read the state of the pushbutton value:
-  buttonState = digitalRead(buttonPin);
-
-  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
-  if (buttonState == HIGH) {
-    // turn LED on:
-    digitalWrite(ledPin, HIGH);
-  } else {
-    // turn LED off:
-    digitalWrite(ledPin, LOW);
-  }
-}
-```
 
 ## Assignment
 * Production:
