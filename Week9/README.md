@@ -88,4 +88,4 @@ void loop()
   value = (value+1)%255; //increase value by 1 each loop
 }
 ```
-![Circuit 2](https://raw.githubusercontent.com/MathuraMG/IntroductionToInteractiveMedia/master/Week8/images/analogOutput.png)
+![Circuit analog circuit](https://github.com/MathuraMG/IntroductionToInteractiveMedia/blob/master/Week9/analogOutput.png)
