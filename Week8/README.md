@@ -98,7 +98,7 @@ void loop() {
 
 ## Assignment
 * Production:
-    * Due Mar. 28 (post documentation on blog): Create an unusual switch that doesn’t require the use of your hands. Use Arduino digital input and output for the interaction.
+    * Due Mar. 28 (post documentation on blog): Create an unusual switch that doesn’t require the use of your hands. 
         * Examples:
             * Get creative with switches: https://itp.nyu.edu/physcomp/labs/switches/#Get_Creative_With_Switches
 * Reading:
