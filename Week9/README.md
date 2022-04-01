@@ -91,6 +91,51 @@ void loop()
 ![Circuit analog circuit](https://github.com/MathuraMG/IntroductionToInteractiveMedia/blob/master/Week9/analogOutput.png)
 
 
+### Arduino - Analog Input
+* Arduino Input can be connected only on the "Analog In" pins -> A0 to A5
+[Circuit analog input potentiometer](https://www.tinkercad.com/dashboard?type=circuits&collection=designs)
+```
+// C++ code
+//
+const int LED = 6;
+const int POT = A0;
+void setup()
+{
+  pinMode(LED, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  int potValue = analogRead(A0);
+  Serial.println(potValue);
+  int ledValue = potValue/4;
+  analogWrite(LED, ledValue);
+}
+```
+
+[Circuit analog input photoresistor](https://www.tinkercad.com/things/29W69mkjFZd-analog-input-1)
+```
+// C++ code
+//
+const int LED = 6;
+const int POT = A0;
+void setup()
+{
+  pinMode(LED, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  int photoValue = analogRead(A0);
+  Serial.println(photoValue);
+  int ledValue = photoValue/4;
+  analogWrite(LED, ledValue);
+}
+```
+
+**[EXTRA : FORCE SENSOR](https://www.tinkercad.com/things/cGmcyMVPNht)** 
 
 Homework
 Production:
