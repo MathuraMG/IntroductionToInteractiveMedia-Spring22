@@ -97,6 +97,6 @@ Production:
 * Due Apr. 5 (post documentation on blog): Get information from at least one analog sensor and at least one digital sensor (switch), and use this information to control at least two LEDs, one in a digital fashion and the other in an analog fashion, in some creative way.
 Reading:
 * Due Apr. 5 (be prepared to discuss both)  :
-Physical Computing’s Greatest hits and misses
-Making Interactive Art: Set the Stage, Then Shut Up and Listen
-Read about the voltage divider. Don’t worry about the theory too much or the section on level shifting. The important thing is to absorb a little of the concept of a voltage divider.
+[Physical Computing’s Greatest hits and misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
+[Making Interactive Art: Set the Stage, Then Shut Up and Listen](https://www.tigoe.com/blog/category/physicalcomputing/405/)
+Read about the [voltage divider](https://learn.sparkfun.com/tutorials/voltage-dividers). Don’t worry about the theory too much or the section on level shifting. The important thing is to absorb a little of the concept of a voltage divider.
