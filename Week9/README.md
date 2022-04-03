@@ -145,3 +145,61 @@ Reading:
 [Physical Computing’s Greatest hits and misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
 [Making Interactive Art: Set the Stage, Then Shut Up and Listen](https://www.tigoe.com/blog/category/physicalcomputing/405/)
 Read about the [voltage divider](https://learn.sparkfun.com/tutorials/voltage-dividers). Don’t worry about the theory too much or the section on level shifting. The important thing is to absorb a little of the concept of a voltage divider.
+
+
+### Homework clarification
+Hello All!
+
+Just wanted to clarify the assignment a bit - the aim is to have you all work with digitalRead, digitalWrite, analogRead, analogWrite and input and output in hardware. (Yes, I am aware this is a long list).
+
+So the idea is that you have -
+
+1) a button (a digital input controlled with digitalRead)
+
+2) 2 LEDs atleast (one controlled with digitalWrite and another with analogWrite)
+
+3) one sensor - eg - potentiometer, photoresistor that can sense light, force sensor (check previous email for details on this) (controlled with analogRead)
+
+And using all this create something creative. Here are 2 examples for that
+
+1) A messaged encoded in morse code. When you press the button, a message shows up in the LED using digitalOutput, and the potentiometer controls the speed of the blinking. The other LED could be a visual indicator for the speed chosen.
+
+2) a strength tester game (like the kind in fairs and in the circus). You could make a little toy hammer, and hit the force sensor, based on how hard you hit it, the light will glow din, or very bright (or not at all). You could use the button here to turn the game "On"
+
+One thing we did not cover in class, is how to control states using a switch (we only used a psuh button). In case of a push button, you have to keep it pressed for it to stay ON, but with a switch, you can leave it ON (similar to the normal switches we do everyday). I have added the circuit for this here. This will a useful way to turn ON a game (such as in the second example). For this assignment, I am also ok if one person needs to hold down the push button in order to be able to play the game.
+
+[Circuit Link](https://www.tinkercad.com/things/5Po9S8SSs0b)
+
+```
+// about this circuit
+// LED in connected to PIN 7 -> controlled by digitalWrite
+// SWITCH is connected to PIN 3 -> controlled by digitalRead
+
+const int LED_PIN = 7;
+const int SWITCH_PIN = 3;
+int state = 0; //initialise the state variable to 0
+
+void setup() {
+  // set up the pin modes
+  pinMode(LED_PIN, OUTPUT);
+  pinMode(SWITCH_PIN, INPUT);
+}
+
+void loop() {
+
+  int buttonValue = digitalRead(SWITCH_PIN);
+  
+  if(buttonValue == HIGH) {
+    digitalWrite(LED_PIN, HIGH);
+  } else {
+    digitalWrite(LED_PIN, LOW);
+  }
+  
+}
+```
+
+
+
+
+
+
