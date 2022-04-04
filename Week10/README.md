@@ -15,11 +15,17 @@
 
 ## In class sensor - Switch and RGB LED
 * try using a switch to turn on a light!
-* RGB LED 
+* RGB LED - some notes below
+  * Connect the common ground to GND via a 330 ohm resistor (do not forget this)
+  * Connecting R, G, B to +ve will turn on that colour. Mix it up and have fun!
+
+[💡🔴 Switch Circuit](https://www.tinkercad.com/things/5Po9S8SSs0b)
 
 ## Speakers
 * Quick look at `tone` function -> https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/
 * How to connect a speaker
+
+[💡🔴 Speaker Circuit](https://www.tinkercad.com/things/19mo8rdYact)
 * Including multiple frequencies using a library
 * Coding a song
 * Making a "piano"
@@ -29,6 +35,8 @@
 ## Servo Motors
 * How to include external libraries
 * Controlling the servo 
+
+[💡🔴 Servo Circuit](https://www.tinkercad.com/things/k272AjdBCYp)
 
 ## Map
 * https://www.arduino.cc/reference/en/language/functions/math/map/
@@ -45,8 +53,11 @@
 ## Try on your own:
 
 * Flex sensor - https://www.instructables.com/How-to-use-a-Flex-Sensor-Arduino-Tutorial/
+
+[💡🔴 Flex Sensor Circuit](https://www.tinkercad.com/things/9yeh7lFvGbS)
 * Force sensor 
-[Force Sensor Circuit](https://www.tinkercad.com/things/cGmcyMVPNht)
+
+[💡🔴 Force Sensor Circuit](https://www.tinkercad.com/things/cGmcyMVPNht)
 * How to check sensor details - look at the number - https://datasheets.globalspec.com/ds/1876/ChallengeElectronics/66CF535E-0359-4738-B192-B0554DF4CFD5
 
 # Assignment
