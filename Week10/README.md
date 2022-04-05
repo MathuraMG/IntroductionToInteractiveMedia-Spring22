@@ -30,7 +30,7 @@
 * Coding a song
 * Making a "piano"
 * Quick look at the theremin
-* https://create.arduino.cc/projecthub/Rad_Silviu/speaker-with-arduino-be454c
+* LOOK AT THIS-> https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody (see before April 7)
 
 ## Servo Motors
 * How to include external libraries
@@ -39,7 +39,7 @@
 [💡🔴 Servo Circuit](https://www.tinkercad.com/things/k272AjdBCYp)
 
 ## Map
-* https://www.arduino.cc/reference/en/language/functions/math/map/
+* https://www.arduino.cc/reference/en/language/functions/math/map/ (see before April 7)
 
 ## Smoothing
 * Sometimes when we have noisy sensors, we can getting random spikes in our readings.
@@ -61,6 +61,12 @@
 * How to check sensor details - look at the number - https://datasheets.globalspec.com/ds/1876/ChallengeElectronics/66CF535E-0359-4738-B192-B0554DF4CFD5
 
 # Assignment
+
+* See before  April 7
+* https://www.arduino.cc/reference/en/language/functions/math/map/ 
+* https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody
+
+
 * Production:
     * Due Apr. 12 (post documentation on blog) – **group assignment (2 people per group)**:  Make a musical instrument
     * You must use at least one digital sensor (switch)
