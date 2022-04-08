@@ -72,7 +72,7 @@
     * You must use at least one digital sensor (switch)
     * You must use at least one analog sensor (photoresistor, potentiometer, or distance measuring sensor)
 * Reading:
-    * Due Apr. 12 (be prepared to discuss both):
+    * Due Apr. 12 (be prepared to discuss both): **Devyn and Hind**
     * [A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
     * [A follow-up article](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/responses.html)
 * It is important that you understand the concepts behind [BlinkWithoutDelay](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources). Here are links to various other explanations of the same thing. Browse them, and read one deeply enough that you understand. Come to class with questions if none of these help.
