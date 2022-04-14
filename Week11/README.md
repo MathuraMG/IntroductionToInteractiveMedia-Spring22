@@ -57,6 +57,7 @@ Can you use the potentiometer to control sound on p5?
 
 More resources
 * https://itp.nyu.edu/physcomp/labs/#Asynchronous_Serial
+* **IMPORTANT: HANDSHAKE** https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-p5js/
 
 ## Assignment
 
