@@ -61,11 +61,14 @@ More resources
 ## Assignment
 
 * Production:
-  * Due Apr. 18 (each person, not just one for a group, should post code for each exercise, and video of just the LED lighting up with the ball bouncing) Work in the groups from class to finish the three in-class examples exercises:
+  * Due Apr. 18 (each person, not just one for a group, should post code for each exercise, and video of just the LED lighting up with the ball bouncing) 
+  * Work in the groups from class to finish the three in-class examples exercises:
 make something that uses only one sensor  on arduino and makes the ellipse in p5 move on the horizontal axis, in the middle of the screen, and nothing on arduino is controlled by p5
 make something that controls the LED brightness from p5
+
 take the gravity wind example (https://editor.p5js.org/aaronsherwood/sketches/I7iQrNCul) and make it so every time the ball bounces one led lights up and then turns off, and you can control the wind from one analog sensor
-  * Due Apr. 18 (post documentation on blog): Write a preliminary concept for your final project, which must incorporate both Arduino and P5.
+
+* Due Apr. 18 (post documentation on blog): Write a preliminary concept for your final project, which must incorporate both Arduino and P5.
   * Final project prompt (examples are listed on syllabus page)
   * Create a physically interactive system of your choice that relies on a multimedia computer for some sort of processing or data analysis. The Final should use BOTH P5 AND Arduino. Your focus should be on careful and timely sensing of the relevant actions of the person or people that you’re designing this for, and on clear, prompt, and effective responses. Any interactive system is going to involve systems of listening, thinking, and speaking from both parties. Whether it involves one cycle or many, the exchange should be engaging. You may work alone or in groups.
 * Reading
