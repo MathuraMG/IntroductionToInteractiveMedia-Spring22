@@ -5,12 +5,10 @@ Electrical devices that rely on the principle of electromagnetism:
 
 Electromagnets
 * Loudspeakers and headphones
-* Solenoid
-* Relays
+* Solenoid, Relays
 * All kind of motors
   * AC motors
   * DC motors
-  * Brushless DC motors
   * Stepper motors
   * Servo motors (which actually consist of a DC motor + servo circuitry)
 
@@ -20,60 +18,29 @@ Electromagnets
 * Now reverse the wires
 * Can we connect the motor to an Arduino output just like we did with the piezo buzzer?
 * How would we reverse it?
-Another problem: Arduino current limitations
-Arduino current limitations
-What is current? It is the rate of flow of electrons through a conductor.
-You don't get to control the current.
-The voltage depends on the current and the resistance (Ohm's law: I=V/R)
-You can provide a voltage (with Arduino, the voltage is always 5V)
-Each device has it's own "resistance"
-LEDs have relatively high "resistance", and so consume low current. Motors have relatively low "resistance", and so consume high current
+ 
+* But now, we have a problem, the Arduino has current limitations ( a recap : current is the rate of flow of electrons through a conductor)
+* Typically,
+ * You don't get to control the current with the Arduino
+ * Current is calculated based on the resistance of the component, and the voltage supplied to it (Ohms law -> V= I*R)
+ * You can provide a voltage (with Arduino, the voltage is always 5V)
+ * Each device has it's own "resistance"
+ * LEDs have relatively high "resistance", and so consume low current. Motors have relatively low "resistance", and so consume high current
+ * The motor may require a current supply of 500mA but the pins of Arduino can only withstand 40 mA. If any component joined to the pin draws current higher than this limit, then the pin will get damaged due to heating and internal circuit damage due to high current draw (
+ * We've not had to worry about that up to now because everything we've done uses very little current
 
-Current flowing through any resistance causes heat (P = I^2/R)
-Everything has resistance
-Therefore, where electricity is flowing there will be heat
-
-Heat causes damage
-
-(We've not had to worry about that up to now because everything we've done uses very little current)
-
-Arduino can not protect itself from damaged caused by overheating. It does not limit current, it is damaged by too much current
-
-The amount of heat a component can withstand before it is damaged is governed, to a large extent, by its size
-
-The transistors that make up Arduino are tiny
+* The reason for using the separate Motor Driver is simple:
+ * It has much bigger transistors as compared to the Arduino, adn they can withstand more heat, and thus do not get damaged
+ * In addition to the bigger transistors, the Motor Driver includes an H-bridge which allows us to control rotation direction
 
 
-
-
-
-The reason for using the separate Motor Driver is simple:
-
-It has much bigger transistors
-
-(It also makes it easier to control both direction and speed, but you could do that with the Arduino alone, it would just be more complicated)
-
-In addition to the bigger transistors, the Motor Driver includes an H-bridge which allows us to control rotation direction
-
-Circuit Schematic
-
-
-
-How did I choose which pins to use?
-
-Never use pins 0 and 1 (dedicated for USB communication)
-Avoid pin 13 if possible (it flashes 3 times on reset)
-Directional control pins (ain1, ain2, bin1, bin2) only require digital signals so avoid pins with extra functionality (analog input, SPI, PWM)
-Inclusion of the servo library disables analogWrite() on pins 9 and 10 (I'm not using the servo library now but perhaps I'll add it later)
-Use of the tone() function disables analogWrite() on pins 3 and 11 (I'm not using the tone() function now but perhaps I'll add it later)
-This leaves PWM pins 5 and 6 for the speed controls (pwma and pwmb)
-Might as well choose nearby digital pins
-Code
-
+# Using the motor driver
+Let's use sparkfun motor driver!
 https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board/experiment-12-using-the-motor-driver
 https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all
 
 
+```
 const int ain1Pin = 3;
 const int ain2Pin = 4;
 const int pwmAPin = 5;
@@ -102,3 +69,12 @@ void loop() {
     delay(20);
   }
 }
+```
+
+# Choosing Pins
+* Never use pins 0 and 1 (dedicated for USB communication)
+* Avoid pin 13 if possible (it flashes 3 times on reset)
+* If you are using only digital signals, avoid pins with extra functionality (analog input, SPI, PWM)
+* Inclusion of the servo library disables analogWrite() on pins 9 and 10 
+* Use of the tone() function disables analogWrite() on pins 3 and 11 
+
