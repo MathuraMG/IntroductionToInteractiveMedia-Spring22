@@ -71,6 +71,7 @@ Might as well choose nearby digital pins
 Code
 
 https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board/experiment-12-using-the-motor-driver
+https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all
 
 
 const int ain1Pin = 3;
