@@ -15,7 +15,14 @@
 * P5 - in openPort callback, send a byte of information
 
 ## Soldering
-* Let’s solder 2 wires together. Let’s solder on a PCB
+* Exercises :
+   * How to strip a wire
+   * using the fan
+   * using the helping hands
+   * solder 2 wires together
+   * Let’s solder on a circuit board - LED
+   * how to add an IC on a circuit board
+   
 * How to use a multimeter
     * To check voltage
     * To check connectivity
