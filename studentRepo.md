@@ -5,7 +5,7 @@
 * [Amantayeva, Dilnaz](https://github.com/dilnaz-exo/introtoim)
 * [Batbileg, Bato](https://github.com/batoxpr/introtoim)
 * [Bushelaibi, Devyn](https://github.com/Devynnn/Intro-to-Interactive-Media)
-* [Datsenko, Liza](https://github.com/lizadat/Intro-to-IM)
+* [Datsenko, Liza](https://github.com/lizadat/Intro_to_IM)
 * [Ezz, Dania](https://github.com/daniaezz/Intro-to-IM)
 * [Mahrin, Maisha](https://github.com/maishahoq/Intro-to-IM)
 * [Mohanty, Soumen](https://github.com/soumen02/Intro_to_IM)
